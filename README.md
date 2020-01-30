@@ -13,3 +13,9 @@ If you want to make a list, use the asterisk for each bulletpoint. For example:
 * First item
 * Second item
 * Third item
+
+On that note, an ordered list is made using the number 1 followed by a period. For example:
+
+1. This item is number 1
+2. This item is number 2
+3. This item is number 3
