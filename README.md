@@ -7,3 +7,9 @@ This is a multiline
 code block that does
 not do anything
 ```
+
+If you want to make a list, use the asterisk for each bulletpoint. For example:
+
+* First item
+* Second item
+* Third item
