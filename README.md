@@ -8,7 +8,7 @@ code block that does
 not do anything
 ```
 
-If you want to make a list, use the asterisk for each bulletpoint. For example:
+If you want to make an unordered list, use the asterisk for each bulletpoint. For example:
 
 * First item
 * Second item
