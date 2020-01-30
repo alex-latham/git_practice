@@ -1,6 +1,6 @@
 # This is a README file! Read me first.
 
-In markdown files, you can make a code block with triple backticks. For example:
+In markdown files, you can make a code block by surrounding your text with triple backticks. For example:
 
 ```
 This is a multiline
