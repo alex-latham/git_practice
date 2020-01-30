@@ -23,3 +23,5 @@ On that note, an ordered list is made using the number 1 followed by a period. F
 This next part gets a little wild.
 
 You can enter inline code by surrounding text with single backticks. For example, `this code is inline and still doesn't do anything` is some inline code.
+
+Bold text tells the user something is important. For example, **WHEN YOUR TEXT EDITOR IS YELLING AT YOU, YOU SHOULD LISTEN UP!!**
