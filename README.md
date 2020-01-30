@@ -19,3 +19,7 @@ On that note, an ordered list is made using the number 1 followed by a period. F
 1. This item is number 1
 2. This item is number 2
 3. This item is number 3
+
+This next part gets a little wild.
+
+You can enter inline code by surrounding text with single backticks. For example, `this code is inline and still doesn't do anything` is some inline code.
